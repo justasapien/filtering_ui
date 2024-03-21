@@ -1,2 +1,3 @@
 # filtering_ui
-filters product and updates cart as well 
+Built using Tailwind CSS and Javascipt
+filters products and updates cart as well 
